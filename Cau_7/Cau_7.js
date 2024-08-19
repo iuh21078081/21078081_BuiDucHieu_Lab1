@@ -18,11 +18,11 @@ const mark = {
     }
   };
   
-  // Calculate BMIs
+
   mark.calcBMI();
   john.calcBMI();
   
-  // Log the result
+
   if (mark.bmi > john.bmi) {
     console.log(`${mark.fullName}'s BMI (${mark.bmi.toFixed(1)}) is higher than ${john.fullName}'s (${john.bmi.toFixed(1)})!`);
   } else if (john.bmi > mark.bmi) {
