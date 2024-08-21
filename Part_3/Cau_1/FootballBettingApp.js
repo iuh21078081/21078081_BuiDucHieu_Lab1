@@ -92,12 +92,10 @@ const gameEvents = new Map([
     [75, 'GOAL'],
     [85, 'FULL TIME']
   ]);
-  
+
   const events = [...new Set(gameEvents.values())];
   console.log(events);
-  
   gameEvents.delete(64);
-  
   const minutes = [...gameEvents.keys()].sort((a, b) => a - b);
   const totalMinutes = minutes.length - 1;
   const totalTimeBetweenEvents = minutes[totalMinutes] - minutes[0];
