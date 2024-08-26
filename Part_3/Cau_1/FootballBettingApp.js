@@ -38,7 +38,10 @@ const game = {
         team2: 6.5,
     },
 };
-// Challenge 1
+console.log("Football Betting App")
+console.log("==============================================================================");
+console.log("Challenge 1");
+
 const [players1, players2] = game.players;
 
 const [gk, ...fieldPlayers] = players1;
@@ -57,7 +60,8 @@ printGoals('Davies', 'Muller', 'Lewandowski', 'Kimmich');
 printGoals(...game.scored);
 team1 < team2 && console.log('Team 1 is more likely to win');
 team2 < team1 && console.log('Team 2 is more likely to win');
-// Challenge 2
+console.log("==============================================================================");
+console.log("Challenge 2");
 for (const [index, player] of game.scored.entries()) {
     console.log(`Goal ${index + 1}: ${player}`);
 }
@@ -82,7 +86,8 @@ for (const player of game.scored) {
     scorers[player] ? scorers[player]++ : (scorers[player] = 1);
 }
 console.log(scorers);
-//Challenge 3
+console.log("==============================================================================");
+console.log("Challenge 3");
 const gameEvents = new Map([
     [17, 'GOAL'],
     [23, 'YELLOW CARD'],
