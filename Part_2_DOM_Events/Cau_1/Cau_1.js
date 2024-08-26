@@ -1,15 +1,19 @@
 let score = 20;
 let secretNumber = Math.trunc(Math.random() * 20) + 1;
 
-document.querySelector('.again').addEventListener('click', function() {
-  score = 20;
-  secretNumber = Math.trunc(Math.random() * 20) + 1;
+const displayMessage = function (message) {
+    document.querySelector('.message').textContent = message;
+};
 
-  document.querySelector('.message').textContent = 'Start guessing...';
-  document.querySelector('.number').textContent = '?';
-  document.querySelector('.score').textContent = score;
-  document.querySelector('.guess').value = '';
+document.querySelector('.again').addEventListener('click', function () {
+    score = 20;
+    secretNumber = Math.trunc(Math.random() * 20) + 1;
 
-  document.querySelector('body').style.backgroundColor = '#222';
-  document.querySelector('.number').style.width = '15rem';
+    displayMessage('Start guessing...');
+    document.querySelector('.score').textContent = score;
+    document.querySelector('.number').textContent = '?';
+    document.querySelector('.guess').value = '';
+
+    document.querySelector('body').style.backgroundColor = '#222';
+    document.querySelector('.number').style.width = '15rem';
 });
