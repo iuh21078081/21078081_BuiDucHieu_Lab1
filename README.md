@@ -96,5 +96,5 @@
 *[Bài 3 - Part 1 ](Part_5_Asynchronous/Cau_3/Part_1)
     ![Uploading image.png…](Part_5_Asynchronous/Cau_3/Part_1/KetQua.png)
     
-*[Bài 3 - Part 1 ](Part_5_Asynchronous/Cau_3/Part_2)
-    ![Uploading image.png…](Part_5_Asynchronous/Cau_3/Part_2/KetQua.png)
+*[Bài 3 - Part 2 ](Part_5_Asynchronous/Cau_3/Part_2)
+    ![Uploading image.png…](Part_5_Asynchronous/Cau_3/Part_1/KetQua.png)
