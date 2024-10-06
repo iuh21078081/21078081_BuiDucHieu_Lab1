@@ -1,5 +1,5 @@
 # Table of contents
-    * [Javascript fundamentals](#javascript-fundamentals)
+   * [Javascript fundamentals](#javascript-fundamentals)
       * [Part 1](#part-1)
       * [Part 2](#part-2)
    * [Developer Skills & Editor Setup](#developer-skills--editor-setup)
