@@ -1,14 +1,14 @@
 # Table of contents
-    * [Javascript fundamental](## Javascript fundamentals)
-      * Part 1
-      * Part 2
-    * Developer Skills & Editor Setup
-    * JavaScript in the browser(DOM EVENT)
-    * Data Structures, Modern Operators and Strings
-    * A Closer Look at Functions
-    * Working With Arrays
-    * Object Oriented Programming
-    * Asynchronous
+    * [Javascript fundamentals](#javascript-fundamentals)
+      * [Part 1](#part-1)
+      * [Part 2](#part-2)
+   * [Developer Skills & Editor Setup](#developer-skills--editor-setup)
+   * [JavaScript in the browser (DOM EVENT)](#javascript-in-the-browserdom-event)
+   * [Data Structures, Modern Operators and Strings](#data-structures-modern-operators-and-strings)
+   * [A Closer Look at Functions](#a-closer-look-at-functions)
+   * [Working With Arrays](#working-with-arrays)
+   * [Object Oriented Programming](#part-4-object-oriented-programming)
+   * [Asynchronous](#part-5-asynchronous)
     
 ## Javascript fundamentals
 ### Part 1
