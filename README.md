@@ -19,3 +19,15 @@
     ![Uploading image.png…](https://github.com/iuh21078081/21078081_BuiDucHieu_Lab1_2/blob/main/Part_1_Fundamental_Js/Cau_8/Cau_8.png)
 * [Bài 9](https://github.com/iuh21078081/21078081_BuiDucHieu_Lab1_2/blob/main/Part_1_Fundamental_Js/Cau_9/Cau_9.js)
     ![Uploading image.png…](https://github.com/iuh21078081/21078081_BuiDucHieu_Lab1_2/blob/main/Part_1_Fundamental_Js/Cau_9/Cau_9.png)
+### Part 2
+    ### JavaScript in the browser(DOM EVENT)
+        * [Bài 1](https://github.com/iuh21078081/21078081_BuiDucHieu_Lab1_2/blob/main/Part_2_DOM_Events/Cau_1/Cau_1.js)
+            ![Uploading image.png…](https://github.com/iuh21078081/21078081_BuiDucHieu_Lab1_2/blob/main/Part_2_DOM_Events/Cau_1/KetQua.png)
+    ### Data Structures, Modern Operators and Strings
+        *[Bài 1 - 3: Football betting](https://github.com/iuh21078081/21078081_BuiDucHieu_Lab1_2/blob/main/Part_3/Cau_1/FootballBettingApp.js)
+            ![Uploading image.png…](https://github.com/iuh21078081/21078081_BuiDucHieu_Lab1_2/blob/main/Part_3/Cau_1/KetQua.png)
+        *[Bài 4: CovertToCamelCase](https://github.com/iuh21078081/21078081_BuiDucHieu_Lab1_2/blob/main/Part_3/ConvertToCamelCase/ConvertToCamelCase.js)
+            ![Uploading image.png…](https://github.com/iuh21078081/21078081_BuiDucHieu_Lab1_2/blob/main/Part_3/ConvertToCamelCase/KetQua.png)
+    ### A Closer Look at Functions
+        *[Bài 1 ](https://github.com/iuh21078081/21078081_BuiDucHieu_Lab1_2/blob/main/Part_3/ACloserAtLookAtFunction/Cau_1/Cau_1.js)
+            ![Uploading image.png…](https://github.com/iuh21078081/21078081_BuiDucHieu_Lab1_2/blob/main/Part_3/ACloserAtLookAtFunction/Cau_1/KetQua.png)
