@@ -98,3 +98,22 @@
     
 * [Bài 3 - Part 2 ](Part_5_Asynchronous/Cau_3/Part_2)
     ![Uploading image.png…](Part_5_Asynchronous/Cau_3/Part_1/KetQua.png)
+## Lab 2: Rewirte functions (map, reduce, find, filter, every, some)
+
+* [function map()](Lab_2/fn_map.js)
+    ![Uploading image.png…](Lab_2/fn_map.png)
+  
+* [function reduce()](Lab_2/fn_reduce.js)
+    ![Uploading image.png…](Lab_2/fn_reduce.png)'
+
+* [function find()](Lab_2/fn_find.js)
+    ![Uploading image.png…](Lab_2/fn_find.png)
+  
+* [function filter()](Lab_2/fn_filter.js)
+    ![Uploading image.png…](Lab_2/fn_filter.png)
+  
+* [function every()](Lab_2/fn_every.js)
+    ![Uploading image.png…](Lab_2/fn_every.png)
+
+* [function some()](Lab_2/fn_some.js)
+    ![Uploading image.png…](Lab_2/fn_some.png)
