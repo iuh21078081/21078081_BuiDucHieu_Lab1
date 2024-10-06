@@ -45,8 +45,41 @@
 
 *[Bài 2 ](https://github.com/iuh21078081/21078081_BuiDucHieu_Lab1_2/blob/main/Part_3/ACloserAtLookAtFunction/Cau_2/Cau_2.js)
     ![Uploading image.png…](https://github.com/iuh21078081/21078081_BuiDucHieu_Lab1_2/blob/main/Part_3/ACloserAtLookAtFunction/Cau_2/KetQua.png)
+    
 #### Working With Arrays
 *[Bài 1 ](https://github.com/iuh21078081/21078081_BuiDucHieu_Lab1_2/blob/main/Part_3/ArrayJavascript/Cau_1/Cau_1.js)
     ![Uploading image.png…](https://github.com/iuh21078081/21078081_BuiDucHieu_Lab1_2/blob/main/Part_3/ArrayJavascript/Cau_1/KetQua.png)
-*[Bài 2 ](https://github.com/iuh21078081/21078081_BuiDucHieu_Lab1_2/blob/main/Part_3/ArrayJavascript/Cau_2/Cau_2.js)
+    
+*[Bài 2 ](Part_3/ArrayJavascript/Cau_2/Cau_2.js)
     ![Uploading image.png…](Part_3/ArrayJavascript/Cau_2/KetQua.png)
+
+*[Bài 3 ](Part_3/ArrayJavascript/Cau_3/Cau_3.js)
+    ![Uploading image.png…](Part_3/ArrayJavascript/Cau_3/KetQua.png)
+
+*[Bài 4 ](Part_3/ArrayJavascript/Cau_4)
+    ![Uploading image.png…](Part_3/ArrayJavascript/Cau_4/KetQua.png)
+
+### Part 4: Object Oriented Programming
+*[Bài 1 ](Part_4_OOP/Cau_1)
+    ![Uploading image.png…](Part_4_OOP/Cau_1/KetQua.png)
+
+*[Bài 2 ](Part_4_OOP/Cau_2)
+    ![Uploading image.png…](Part_4_OOP/Cau_2/KetQua.png)
+
+*[Bài 3 ](Part_4_OOP/Cau_3)
+    ![Uploading image.png…](Part_4_OOP/Cau_3/KetQua.png)
+
+*[Bài 4 ](Part_4_OOP/Cau_4)
+    ![Uploading image.png…](Part_4_OOP/Cau_4/KetQua.png)
+### Part 5: Asynchronous
+*[Bài 1 ](Part_5_Asynchronous/Cau_1)
+    ![Uploading image.png…](Part_5_Asynchronous/Cau_1/KetQua.png)
+    
+*[Bài 2 ](Part_5_Asynchronous/Cau_2)
+    ![Uploading image.png…](Part_5_Asynchronous/Cau_2/KetQua.png)
+    
+*[Bài 3 - Part 1 ](Part_5_Asynchronous/Cau_3/Part_1)
+    ![Uploading image.png…](Part_5_Asynchronous/Cau_3/Part_1/KetQua.png)
+    
+*[Bài 3 - Part 1 ](Part_5_Asynchronous/Cau_3/Part_2)
+    ![Uploading image.png…](Part_5_Asynchronous/Cau_3/Part_2/KetQua.png)
