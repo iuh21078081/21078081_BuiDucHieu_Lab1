@@ -1,4 +1,15 @@
 # Table of contents
+    * Javascript fundamental
+      * Part 1
+      * Part 2
+    * Developer Skills & Editor Setup
+    * JavaScript in the browser(DOM EVENT)
+    * Data Structures, Modern Operators and Strings
+    * A Closer Look at Functions
+    * Working With Arrays
+    * Object Oriented Programming
+    * Asynchronous
+    
 ## Javascript fundamentals
 ### Part 1
 * [Bài 1](https://github.com/iuh21078081/21078081_BuiDucHieu_Lab1_2/blob/main/Part_1_Fundamental_Js/Cau_1/Cau_1.js)
@@ -13,6 +24,8 @@
 * [Bài 4](https://github.com/iuh21078081/21078081_BuiDucHieu_Lab1_2/blob/main/Part_1_Fundamental_Js/Cau_4/Cau_4.js)
     ![Uploading image.png…](https://github.com/iuh21078081/21078081_BuiDucHieu_Lab1_2/blob/main/Part_1_Fundamental_Js/Cau_4/Cau_4.png)
   
+### Part 2
+
 * [Bài 5](https://github.com/iuh21078081/21078081_BuiDucHieu_Lab1_2/blob/main/Part_1_Fundamental_Js/Cau_5/Cau_5.js)
     ![Uploading image.png…](https://github.com/iuh21078081/21078081_BuiDucHieu_Lab1_2/blob/main/Part_1_Fundamental_Js/Cau_5/Cau_5.png)
   
@@ -25,28 +38,30 @@
 * [Bài 8](https://github.com/iuh21078081/21078081_BuiDucHieu_Lab1_2/blob/main/Part_1_Fundamental_Js/Cau_8/Cau_8.js)
     ![Uploading image.png…](https://github.com/iuh21078081/21078081_BuiDucHieu_Lab1_2/blob/main/Part_1_Fundamental_Js/Cau_8/Cau_8.png)
   
+## Developer Skills & Editor Setup
+
 * [Bài 9](https://github.com/iuh21078081/21078081_BuiDucHieu_Lab1_2/blob/main/Part_1_Fundamental_Js/Cau_9/Cau_9.js)
     ![Uploading image.png…](https://github.com/iuh21078081/21078081_BuiDucHieu_Lab1_2/blob/main/Part_1_Fundamental_Js/Cau_9/Cau_9.png)
-### Part 2
-#### JavaScript in the browser(DOM EVENT)
+
+## JavaScript in the browser(DOM EVENT)
 * [Bài 1](https://github.com/iuh21078081/21078081_BuiDucHieu_Lab1_2/blob/main/Part_2_DOM_Events/Cau_1/Cau_1.js)  
     ![Uploading image.png…](https://github.com/iuh21078081/21078081_BuiDucHieu_Lab1_2/blob/main/Part_2_DOM_Events/Cau_1/KetQua.png)
   
-#### Data Structures, Modern Operators and Strings
+## Data Structures, Modern Operators and Strings
 *[Bài 1 - 3: Football betting](https://github.com/iuh21078081/21078081_BuiDucHieu_Lab1_2/blob/main/Part_3/Cau_1/FootballBettingApp.js)
     ![Uploading image.png…](https://github.com/iuh21078081/21078081_BuiDucHieu_Lab1_2/blob/main/Part_3/Cau_1/KetQua.png)
     
 *[Bài 4: CovertToCamelCase](https://github.com/iuh21078081/21078081_BuiDucHieu_Lab1_2/blob/main/Part_3/ConvertToCamelCase/ConvertToCamelCase.js)
     ![Uploading image.png…](https://github.com/iuh21078081/21078081_BuiDucHieu_Lab1_2/blob/main/Part_3/ConvertToCamelCase/KetQua.png)
     
-#### A Closer Look at Functions
+## A Closer Look at Functions
 *[Bài 1 ](https://github.com/iuh21078081/21078081_BuiDucHieu_Lab1_2/blob/main/Part_3/ACloserAtLookAtFunction/Cau_1/Cau_1.js)
     ![Uploading image.png…](https://github.com/iuh21078081/21078081_BuiDucHieu_Lab1_2/blob/main/Part_3/ACloserAtLookAtFunction/Cau_1/KetQua.png)
 
 *[Bài 2 ](https://github.com/iuh21078081/21078081_BuiDucHieu_Lab1_2/blob/main/Part_3/ACloserAtLookAtFunction/Cau_2/Cau_2.js)
     ![Uploading image.png…](https://github.com/iuh21078081/21078081_BuiDucHieu_Lab1_2/blob/main/Part_3/ACloserAtLookAtFunction/Cau_2/KetQua.png)
     
-#### Working With Arrays
+## Working With Arrays
 *[Bài 1 ](https://github.com/iuh21078081/21078081_BuiDucHieu_Lab1_2/blob/main/Part_3/ArrayJavascript/Cau_1/Cau_1.js)
     ![Uploading image.png…](https://github.com/iuh21078081/21078081_BuiDucHieu_Lab1_2/blob/main/Part_3/ArrayJavascript/Cau_1/KetQua.png)
     
@@ -59,7 +74,7 @@
 *[Bài 4 ](Part_3/ArrayJavascript/Cau_4)
     ![Uploading image.png…](Part_3/ArrayJavascript/Cau_4/KetQua.png)
 
-### Part 4: Object Oriented Programming
+## Part 4: Object Oriented Programming
 *[Bài 1 ](Part_4_OOP/Cau_1)
     ![Uploading image.png…](Part_4_OOP/Cau_1/KetQua.png)
 
@@ -71,7 +86,7 @@
 
 *[Bài 4 ](Part_4_OOP/Cau_4)
     ![Uploading image.png…](Part_4_OOP/Cau_4/KetQua.png)
-### Part 5: Asynchronous
+## Part 5: Asynchronous
 *[Bài 1 ](Part_5_Asynchronous/Cau_1)
     ![Uploading image.png…](Part_5_Asynchronous/Cau_1/KetQua.png)
     
