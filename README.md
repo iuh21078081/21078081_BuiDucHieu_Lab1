@@ -9,7 +9,7 @@
    * [Working With Arrays](#working-with-arrays)
    * [Object Oriented Programming](#part-4-object-oriented-programming)
    * [Asynchronous](#part-5-asynchronous)
-   * [Lab 2: Rewrite functions (map, reduce, find, filter, every, some)](#lab-2-rewirte-functions-map-reduce-find-filter-every-some)
+   * [Lab 2: Rewrite functions (map, reduce, find, filter, every, some)](#lab-2-rewrite-functions-map-reduce-find-filter-every-some)
     
 ## Javascript fundamentals
 ### Part 1
@@ -99,7 +99,7 @@
     
 * [Bài 3 - Part 2 ](Part_5_Asynchronous/Cau_3/Part_2)
     ![Uploading image.png…](Part_5_Asynchronous/Cau_3/Part_1/KetQua.png)
-## Lab 2: Rewirte functions (map, reduce, find, filter, every, some)
+## Lab 2: Rewrite functions (map, reduce, find, filter, every, some)
 
 * [function map()](Lab_2/fn_map.js)
     ![Uploading image.png…](Lab_2/fn_map.png)
