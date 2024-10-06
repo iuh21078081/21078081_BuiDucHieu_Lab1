@@ -9,7 +9,7 @@
    * [Working With Arrays](#working-with-arrays)
    * [Object Oriented Programming](#part-4-object-oriented-programming)
    * [Asynchronous](#part-5-asynchronous)
-   * [Lab 2](#lab-2-rewirte-functionsmap-reduce-find-filter-every-some)
+   * [Lab 2](#lab-2-rewirte-functionsmap,-reduce,-find,-filter,-every,-some)
     
 ## Javascript fundamentals
 ### Part 1
